@@ -1,0 +1,3 @@
+#namespaces should be created first before resources otherwise namespace doesn exist error will come
+#alias execute='kubectl apply -f filename' #sudo execute will not work
+#metadata.namespace: allsmalls
